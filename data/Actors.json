@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"SergioMN","characterIndex":0,"characterName":"SergioMN","classId":7,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"SergioMN","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sergio","nickname":"The CPC Master","note":"","profile":""},
+{"id":2,"battlerName":"ChawiMN","characterIndex":0,"characterName":"ChawiMN","classId":9,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"ChawiMN","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chawi","nickname":"Chawy","note":"","profile":"Extremadamente caliente, virgen con un apetito sexual\ninhumano. Requisitos: Mujer(opcional) pene"},
+{"id":3,"battlerName":"AlexMN","characterIndex":0,"characterName":"AlexMN","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"AlexMN","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alex","nickname":"AlexNya","note":"","profile":""},
+{"id":4,"battlerName":"RazoMN","characterIndex":0,"characterName":"RazoMN","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"RazoMN","traits":[],"initialLevel":1,"maxLevel":99,"name":"Razo","nickname":"RazoLol","note":"","profile":""},
+{"id":5,"battlerName":"Sergio","characterIndex":0,"characterName":"SCAR","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sergio","traits":[],"initialLevel":1,"maxLevel":99,"name":"Proxy","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ChawY","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ChawX","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Package1_5","characterIndex":4,"characterName":"Package1","classId":6,"equips":[1,0,2,3,4],"faceIndex":4,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lume","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

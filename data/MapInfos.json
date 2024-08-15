@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
+{"id":2,"expanded":false,"name":"Itver","order":2,"parentId":0,"scrollX":915.4285714285713,"scrollY":622.2857142857142},
+{"id":3,"expanded":true,"name":"Salon E104","order":3,"parentId":2,"scrollX":813,"scrollY":487.5},
+{"id":4,"expanded":false,"name":"U-Planta baja","order":4,"parentId":2,"scrollX":542,"scrollY":325},
+{"id":5,"expanded":true,"name":"U-Planta alta","order":5,"parentId":4,"scrollX":542,"scrollY":325},
+{"id":6,"expanded":false,"name":"U107","order":6,"parentId":5,"scrollX":542,"scrollY":325},
+{"id":7,"expanded":false,"name":"Coordinacion","order":7,"parentId":5,"scrollX":534,"scrollY":443},
+{"id":8,"expanded":true,"name":"Edificio X","order":8,"parentId":2,"scrollX":534,"scrollY":499},
+{"id":9,"expanded":true,"name":"X-Planta alta","order":9,"parentId":8,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
+{"id":10,"expanded":false,"name":"Club de robotica","order":10,"parentId":9,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
+{"id":11,"expanded":true,"name":"MundoMagico","order":11,"parentId":0,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
+{"id":12,"expanded":false,"name":"BosqueCinematica","order":12,"parentId":11,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
+{"id":13,"expanded":true,"name":"Pueblo 1","order":13,"parentId":11,"scrollX":917.1428571428571,"scrollY":965.1428571428571},
+{"id":14,"expanded":true,"name":"Bosque","order":16,"parentId":11,"scrollX":915.4285714285713,"scrollY":882.8571428571428},
+{"id":15,"expanded":false,"name":"Barracas","order":14,"parentId":13,"scrollX":650.4,"scrollY":390},
+{"id":16,"expanded":false,"name":"Posada_pueblo1","order":15,"parentId":13,"scrollX":929.1428571428571,"scrollY":557.1428571428571}
+]
