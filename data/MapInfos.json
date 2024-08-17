@@ -12,8 +12,10 @@ null,
 {"id":10,"expanded":false,"name":"Club de robotica","order":10,"parentId":9,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
 {"id":11,"expanded":true,"name":"MundoMagico","order":11,"parentId":0,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
 {"id":12,"expanded":false,"name":"BosqueCinematica","order":12,"parentId":11,"scrollX":929.1428571428571,"scrollY":557.1428571428571},
-{"id":13,"expanded":true,"name":"Pueblo 1","order":13,"parentId":11,"scrollX":917.1428571428571,"scrollY":965.1428571428571},
-{"id":14,"expanded":true,"name":"Bosque","order":16,"parentId":11,"scrollX":915.4285714285713,"scrollY":882.8571428571428},
-{"id":15,"expanded":false,"name":"Barracas","order":14,"parentId":13,"scrollX":650.4,"scrollY":390},
-{"id":16,"expanded":false,"name":"Posada_pueblo1","order":15,"parentId":13,"scrollX":929.1428571428571,"scrollY":557.1428571428571}
+{"id":13,"expanded":true,"name":"Pueblo 1","order":13,"parentId":11,"scrollX":1088,"scrollY":714},
+{"id":14,"expanded":true,"name":"Bosque","order":18,"parentId":11,"scrollX":906,"scrollY":883},
+{"id":15,"expanded":false,"name":"Barracas","order":14,"parentId":13,"scrollX":666,"scrollY":317},
+{"id":16,"expanded":false,"name":"Posada_pueblo1","order":15,"parentId":13,"scrollX":542,"scrollY":325},
+{"id":17,"expanded":false,"name":"Tienda de ropa","order":16,"parentId":13,"scrollX":542,"scrollY":325},
+{"id":18,"expanded":false,"name":"Tienda de armas","order":17,"parentId":13,"scrollX":542,"scrollY":325}
 ]
